@@ -1,0 +1,19 @@
+{
+  "name": "automation-testing-vitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@vitest/eslint-plugin": "^1.6.6",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "vitest": "^4.0.17"
+  }
+}
